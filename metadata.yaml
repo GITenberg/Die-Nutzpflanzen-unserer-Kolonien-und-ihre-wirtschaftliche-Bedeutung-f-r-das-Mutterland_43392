@@ -1,0 +1,35 @@
+_repo: Die-Nutzpflanzen-unserer-Kolonien-und-ihre-wirtschaftliche-Bedeutung-f-r-das-Mutterland_43392
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bock, K.
+    gutenberg_agent_id: '42175'
+    url: http://www.gutenberg.org/2009/agents/42175
+covers:
+- cover_type: archival
+  image_path: 43392-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Westermann, Diedrich
+    alias: Westermann, D.‏ (Diedrich)
+    birthdate: 1875
+    deathdate: 1956
+    gutenberg_agent_id: '42174'
+    url: http://www.gutenberg.org/2009/agents/42174
+description: ''
+gutenberg_issued: '2013-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43392'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants, Useful -- Germany -- Colonies'
+- !lcsh 'Tropical crops'
+- !lcc 'SB'
+- !lcsh 'Plants, Useful -- Tropics'
+title: Die Nutzpflanzen unserer Kolonien und ihre wirtschaftliche Bedeutung für das
+  Mutterland
+url: http://www.gutenberg.org/ebooks/43392
